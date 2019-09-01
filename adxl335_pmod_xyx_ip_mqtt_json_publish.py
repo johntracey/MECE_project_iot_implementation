@@ -117,7 +117,7 @@ dma_z.recvchannel.wait()
 #X-Values should be (X*X), Y-values should be (Y*10), Z-values should be ((5*Z)+450)
 
 print("X-Values Output Buffer Values after transfer: ",out_buffer_x)
-print("Y-Values Output Buffer Values after transfer: ",out_buffer_x)
+print("Y-Values Output Buffer Values after transfer: ",out_buffer_x) 
 print("Z-Values Output Buffer Values after transfer: ",out_buffer_x)
 
 #Testing a simple alarm condition
